@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin-top: 20px;
+  }
+  
+  .inputs {
+    text-align: right;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  .results {
+    margin-top: 20px;
+  }
+  
